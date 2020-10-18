@@ -4,6 +4,7 @@ def base_hash(key)
       :railroads => {}
     }
   ]
+  base_hash(monopoly)
 end
 
 
