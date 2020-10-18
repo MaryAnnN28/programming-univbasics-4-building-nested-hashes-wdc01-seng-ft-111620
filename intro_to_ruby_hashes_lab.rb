@@ -1,4 +1,4 @@
-def base_hash(key)
+def base_hash(hash, key)
   monopoly = [
     {
       :railroads => {}
