@@ -1,4 +1,4 @@
-def base_hash(monopoly)
+def base_hash
   railroads = {}
 end
 
